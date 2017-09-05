@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ForGitHub-kz.danntu.iml" filepath="$PROJECT_DIR$/.idea/modules/ForGitHub-kz.danntu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleexamples-kz.danntu.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleexamples-kz.danntu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kz.danntu.iml" filepath="$PROJECT_DIR$/.idea/modules/kz.danntu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kz.danntu_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kz.danntu_main.iml" group="kz.danntu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kz.danntu_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kz.danntu_test.iml" group="kz.danntu" />
+    </modules>
+  </component>
+</project>
