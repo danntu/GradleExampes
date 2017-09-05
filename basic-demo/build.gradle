@@ -17,3 +17,8 @@ task mkdir(){
     mkdir 'dest'
 }
 
+task hello{
+    doLast{
+        println 'Hello, World!';
+    }
+}
