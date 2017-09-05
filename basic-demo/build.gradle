@@ -1,3 +1,19 @@
+import org.gradle.api.tasks.Copy
+import org.gradle.api.tasks.Delete
+import org.gradle.api.tasks.bundling.Zip
+
+plugins{
+    id 'base'
+}
+
 group 'Basic demo'
 version '1.0-SNAPSHOT'
+
+description='A trivial Gradle build'
+version = '1.1'
+
+task mkdir(){
+    mkdir 'src'
+    mkdir 'dest'
+}
 
